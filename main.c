@@ -1,7 +1,8 @@
 #include < stdio.h > 
 int main (void)
 {
-puts ("Hello, world!");
+printf ("Hello, world!");
+puts ("I am in repository!");
 
 return 0;
 }

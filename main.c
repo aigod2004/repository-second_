@@ -3,7 +3,7 @@
 int main (void)
 {
 int k=0;
-printf ("Hello, world!!!\n");
+printf ("Hello, world!");
 
 return k;
 }

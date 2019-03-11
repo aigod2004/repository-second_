@@ -7,6 +7,7 @@ int main (void)
 {
 printf ("Hello, world!!!\n");
 y=y+3;
+g=g+t;
 sleep (5);
 
 return 0;
